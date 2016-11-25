@@ -1,0 +1,15 @@
+h1{
+  color: rgb(30, 30, 30);
+  background-color: Gray;
+  font-style: italic;
+  font-family: serif;
+}
+/*The Main header is black*/
+body{
+  color: rgb(100, 20, 100);
+  background-color: Silver;
+  font-family: serif;
+
+}
+/*The Body colour is different to the Main header, I didn't want
+  the same colour for both as black and white is a bit dull.*/
