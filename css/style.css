@@ -1,15 +1,58 @@
 h1{
   color: rgb(30, 30, 30);
+  text-align: center;
   background-color: Gray;
   font-style: italic;
   font-family: serif;
+
 }
 /*The Main header is black*/
+h3{
+  text-decoration: underline;
+}
 body{
   color: rgb(100, 20, 100);
   background-color: Silver;
   font-family: serif;
+  display: flex;
+  flex-direction: column;
+}
+
+header{
+  background-color: Gray;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-bar{
+  text-decoration: none;
+  color: rgb(100, 20, 100);
 
 }
-/*The Body colour is different to the Main header, I didn't want
-  the same colour for both as black and white is a bit dull.*/
+
+.thumbnail-list {
+    list-style: none;
+    padding: 0;
+    flex: 0 1 auto;
+    order: 2;
+    display: flex;
+    justify-content: space-between;
+    white-space: nowrap;
+    overflow-x: auto;
+}
+/*I got some of this thumbnail code from ottergram*/
+.thumbnail-item {
+    border: 1px solid rgba(100%, 100%, 100%, 0.8);
+    display: inline-block;
+    min-width: 120px;
+    max-width: 120px;
+}
+
+.thumbnail-image {
+    display: block;
+    width: 100%;
+}
+
+.thumbnail-title {
+  text-decoration: none;
+}
