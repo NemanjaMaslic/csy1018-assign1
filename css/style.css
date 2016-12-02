@@ -3,17 +3,16 @@ h1{
   text-align: center;
   background-color: Gray;
   font-style: italic;
-  font-family: serif;
-
+  font-family:sans-serif;
 }
-/*The Main header is black*/
+/*The main header is black*/
 h3{
   text-decoration: underline;
 }
 body{
-  color: rgb(100, 20, 100);
+  color: rgb(100, 20, 100); /*This is a purple colour*/
   background-color: Silver;
-  font-family: serif;
+  font-family:sans-serif;
   display: flex;
   flex-direction: column;
 }
@@ -22,6 +21,14 @@ header{
   background-color: Gray;
   display: flex;
   justify-content: space-between;
+}
+
+img{
+  width:300px;
+}
+
+a{
+  text-decoration: none;
 }
 
 .nav-bar{
@@ -41,17 +48,6 @@ header{
     overflow-x: auto;
 }
 /*I got some of this thumbnail code from ottergram*/
-.thumbnail-item {
-    border: 1px solid rgba(100%, 100%, 100%, 0.8);
-    display: inline-block;
-    min-width: 120px;
-    max-width: 120px;
-}
-
-.thumbnail-image {
-    display: block;
-    width: 100%;
-}
 
 .thumbnail-title {
   text-decoration: none;
