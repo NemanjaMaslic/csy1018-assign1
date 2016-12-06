@@ -1,37 +1,51 @@
-h1{
+h1 {
   color: rgb(30, 30, 30);
   text-align: center;
   background-color: Gray;
   font-style: italic;
-  font-family:sans-serif;
+  font-family: "Aref Ruqaa" ,serif; /*https://fonts.google.com/specimen/Aref+Ruqaa?selection.family=Aref+Ruqaa*/
 }
 /*The main header is black*/
-h3{
-  text-decoration: underline;
+
+h3 {
+  text-align: center;
+  font-style: italic;
 }
-body{
+
+body {
   color: rgb(100, 20, 100); /*This is a purple colour*/
   background-color: Silver;
-  font-family:sans-serif;
+  font-family: "Aref Ruqaa" ,serif;
+  text-align: center;
   display: flex;
   flex-direction: column;
 }
 
-header{
+header {
+  text-align: center;
   background-color: Gray;
   display: flex;
   justify-content: space-between;
 }
 
-img{
-  width:300px;
+ul {
+  list-style-type: none;
 }
 
-a{
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:300px;
+}
+/*https://www.w3.org/Style/Examples/007/center.en.html#block*/
+
+a {
+  align-items: center;
   text-decoration: none;
 }
 
-.nav-bar{
+.nav-bar {
   text-decoration: none;
   color: rgb(100, 20, 100);
 
@@ -51,4 +65,10 @@ a{
 
 .thumbnail-title {
   text-decoration: none;
+}
+
+.thumbnail-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
