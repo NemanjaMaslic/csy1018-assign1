@@ -26,6 +26,17 @@ header {
   background-color: Gray;
   display: flex;
   justify-content: space-between;
+  right: 0;
+  left: 0;
+  padding: 0;
+}
+
+footer{
+  background-color: Gray;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
 }
 
 ul {
@@ -48,20 +59,7 @@ a {
 .nav-bar {
   text-decoration: none;
   color: rgb(100, 20, 100);
-
 }
-
-.thumbnail-list {
-    list-style: none;
-    padding: 0;
-    flex: 0 1 auto;
-    order: 2;
-    display: flex;
-    justify-content: space-between;
-    white-space: nowrap;
-    overflow-x: auto;
-}
-/*I got some of this thumbnail code from ottergram*/
 
 .thumbnail-title {
   text-decoration: none;
