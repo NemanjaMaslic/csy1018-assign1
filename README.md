@@ -31,13 +31,17 @@ https://codepen.io/cbracco/pen/zekgx (07/12/2016)
 So far all together, I have about 11 hours of work.
 By Nemanja Maslic
 
-Bos, B (2001) Web Style Sheets, CSS tips & tricks. W3C [online]. Available from:
-https://www.w3.org/Style/Examples/007/center.en.html#block [accessed 06/12/2016].
-Cornianu, F (2008) Free HTML Contact Form Code. 123contactform [online]. Available from:
-http://www.123contactform.com/html-contact-form/ [accessed 02/12/2016].
-Google (2010) Aref Ruqaa. Google Fonts [online]. Available from:
-https://fonts.google.com/specimen/Aref+Ruqaa [accessed 06/12/2016].
-McKeon, J (2016) How to Get Rid of Bullets in CSS. Small Business, Chron [online]. Available from:
-http://smallbusiness.chron.com/rid-bullets-css-44979.html [accessed 06/12/2016].
-Vasquez, A (2016) CSS "Always on the bottom" Footer. Codepen [online]. Available from:
-https://codepen.io/cbracco/pen/zekgx [accessed 07/12/2016]
+<!--Bos, B (2001) Web Style Sheets, CSS tips & tricks. W3C [online]. Available from:
+https://www.w3.org/Style/Examples/007/center.en.html#block [accessed 06/12/2016].-->
+
+<!--Cornianu, F (2008) Free HTML Contact Form Code. 123contactform [online]. Available from:
+http://www.123contactform.com/html-contact-form/ [accessed 02/12/2016].-->
+
+<!--Google (2010) Aref Ruqaa. Google Fonts [online]. Available from:
+https://fonts.google.com/specimen/Aref+Ruqaa [accessed 06/12/2016].-->
+
+<!--McKeon, J (2016) How to Get Rid of Bullets in CSS. Small Business, Chron [online]. Available from:
+http://smallbusiness.chron.com/rid-bullets-css-44979.html [accessed 06/12/2016].-->
+
+<!--Vasquez, A (2016) CSS "Always on the bottom" Footer. Codepen [online]. Available from:
+https://codepen.io/cbracco/pen/zekgx [accessed 07/12/2016].-->
