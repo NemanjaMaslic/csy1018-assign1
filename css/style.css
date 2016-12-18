@@ -4,12 +4,15 @@ h1 {
   background-color: Gray;
   font-style: italic;
   font-family: "Aref Ruqaa" ,serif; /*https://fonts.google.com/specimen/Aref+Ruqaa?selection.family=Aref+Ruqaa*/
+  margin: 0.5em;
 }
 /*The main header is black*/
 
 h3 {
   text-align: center;
   font-style: italic;
+  padding: 0;
+  margin: 0;
 }
 
 body {
@@ -19,6 +22,7 @@ body {
   text-align: center;
   display: flex;
   flex-direction: column;
+  padding: 0.5em;
 }
 
 header {
@@ -26,9 +30,6 @@ header {
   background-color: Gray;
   display: flex;
   justify-content: space-between;
-  right: 0;
-  left: 0;
-  padding: 0;
 }
 
 footer{
@@ -44,10 +45,10 @@ ul {
 }
 
 img {
-  display: block;
   margin-left: auto;
   margin-right: auto;
-  width:300px;
+  width:200px;
+  align-items: center;
 }
 /*https://www.w3.org/Style/Examples/007/center.en.html#block*/
 
@@ -59,6 +60,10 @@ a {
 .nav-bar {
   text-decoration: none;
   color: rgb(100, 20, 100);
+}
+
+.nav-bar:hover {
+  background-color: silver;
 }
 
 .thumbnail-title {
