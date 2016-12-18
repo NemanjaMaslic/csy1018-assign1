@@ -1,4 +1,8 @@
 # csy1018-assign1
+There wasn't actually any wireframes which I created or any sketches of what
+I actually want the website to look like. I just went with the flow and tried
+to develop it as I went along.
+
 The first page which I completed was the CV page.
 I went through it to make sure there was indents on there so that the code could be read correctly
 I spoke to a fellow student called Beth about the assignment. In the drop in session I spoke to a guy called
@@ -6,17 +10,21 @@ Miguel about how to create the nav-bar. (25/11/2016)
 The nav-bar system I completed using the <a> and created a class called nav-bar and each one is linked to
 another page. I then added a hover bit on the nav bar so that when the mouse went over it, it would change colour.
 I asked my friend Rich how he did it.
-I also collaborated with Hannah to see how much she'd completed, and asked her what she did about the contact form.
 It took me roughly 4 hours to complete the CV page, it was on and off as I needed to think about the information
 which I had to put on there as well as what code or css I could potentially use in it.
+
 I then started working on my Index/Homepage. I first put in an image of myself, I centered it,
 and then worked around adding some basic information. So far I've done about 2 hours of work on my Index.
+
 I've now started working on my About Me page (02/12/2016) and this I'm doing on my own, but small faults which
 I'm coming across I'm going to ask for help. On the About Me page, I have information separated by images on there,
 the information and images are all centered too. I've worked about 3 hours on this page.
+
 I also found the code for a contact form online as I wouldn't know how to create that myself. (02/12/2016)
-When I found
-the correct code which I wanted I had to input the correct colours for the font and background so the code had it.
+When I found the correct code which I wanted I had to input the correct colours
+for the font and background so the code had it.
+I also collaborated with Hannah to see how much she'd completed, and asked her what
+she did about the contact form.
 I've referenced it in my work, but I'll reference it here. http://www.123contactform.com/html-contact-form/
 On the contact page I spent about half an hour to an hour as it was literally just looking for the correct code
 which I could use for the contact form and then playing around with the way I wanted it laid out.
