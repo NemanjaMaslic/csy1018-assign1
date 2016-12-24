@@ -28,6 +28,7 @@ she did about the contact form.
 I've referenced it in my work, but I'll reference it here. http://www.123contactform.com/html-contact-form/
 On the contact page I spent about half an hour to an hour as it was literally just looking for the correct code
 which I could use for the contact form and then playing around with the way I wanted it laid out.
+
 I selected a font from google fonts as well called Aref Ruqaa. (06/12/2016)
 https://fonts.google.com/specimen/Aref+Ruqaa?selection.family=Aref+Ruqaa
 Centering the images on my pages I used the following website to help me.(06/12/2016)
