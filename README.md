@@ -1,7 +1,7 @@
 # csy1018-assign1
-There wasn't actually any wireframes which I created or any sketches of what
-I actually want the website to look like. I just went with the flow and tried
-to develop it as I went along.
+I developed some very basic wireframes, I started off with a house style, and then
+individual wireframes for the 4 web pages which I was to create.
+You can find them attached in the zipped file under the supporting_docs.
 
 The first page which I completed was the CV page.
 I went through it to make sure there was indents on there so that the code could be read correctly
